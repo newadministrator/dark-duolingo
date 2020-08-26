@@ -1,10 +1,9 @@
 [![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=bd-config-messages)](https://travis-ci.com/travis-ci/travis-web)
-# DARK THEME for <font color='green'>Duolingo</font>
+# DARK THEME for Duolingo
+<br />
+# What's?
+>Custom (DARK) theme for Duolingo.
 
-
-
-
->That's a custom from Duolingo style (.CSS);
 
 
 # Where?
