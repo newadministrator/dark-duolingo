@@ -23,6 +23,7 @@
 
 - Firefox
 >1. Open the browser;
+>
 >2. In the address bar, type: "about:config" (without quotes), press Enter;
 >3. Click "Accept the Risk and Continue";
 >4. In the search bar, type: "toolkit.legacyUserProfileCustomizations.stylesheets" (without quotes), change the value to "true";
