@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=bd-config-messages)](https://travis-ci.com/travis-ci/travis-web)
 # DARK THEME for Duolingo
+![Alt-text](https://i.imgur.com/UgLBRbl.png)
 <br />
 
 # What's?
