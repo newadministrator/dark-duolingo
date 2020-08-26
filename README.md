@@ -1,13 +1,24 @@
 [![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=bd-config-messages)](https://travis-ci.com/travis-ci/travis-web)
-# DARK THEME for Duolingo
+## DARK THEME for Duolingo
 ![Alt-text](https://i.imgur.com/UgLBRbl.png)
 <br />
 
-# What's?
- - Custom (DARK) theme for Duolingo.
+# **Disclaimer**
+------------
+
+*I'm a user and fan!<br/>I'm not involved with the Duolingo, Inc.!<br/>All rights are reserved to the Duolingo, Inc. (a.k.a Duolingo(dot)com)!*
+
+<br/>
+
+### What's?
+------------
+
+ - A custom (DARK) theme to use on the Duolingo.
+
 <br />
 
-# Where does this work?
+### Where does this work?
+------------
 
 - Home
 - Lessons
@@ -19,7 +30,8 @@
 
 <br />
 
-# How to use?
+### How to use?
+-----------
 
 - Firefox
 >1. Open the browser;
@@ -33,7 +45,7 @@
 >8. Restart the firefox (close and open);
 >9. Open the Duolingo website.
 
-
+-----------
 
 # dark-duolingo
 
