@@ -3,11 +3,11 @@
 <br />
 
 # What's?
-> Custom (DARK) theme for Duolingo.
+> - Custom (DARK) theme for Duolingo.
 
 
 
-# Where?
+# Where does this work?
 
 - Home
 - Lessons
@@ -16,6 +16,11 @@
 - Forums
 - Blog
 - & more...
+
+<br />
+
+# How to use?
+
 
 
 
