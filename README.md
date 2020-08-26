@@ -1,13 +1,13 @@
 [![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=bd-config-messages)](https://travis-ci.com/travis-ci/travis-web)
-# DARK MODE TO DUOLINGO
+# DARK THEME FOR DUOLINGO
 
 
 
 
-[That's a custom from Duolingo style (.CSS);]
+>That's a custom from Duolingo style (.CSS);
 
 
-# Dark mode in:
+# Where?
 
 - Home
 - Lessons
