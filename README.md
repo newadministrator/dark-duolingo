@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=bd-config-messages)](https://travis-ci.com/travis-ci/travis-web)
-# DARK THEME FOR DUOLINGO
+# DARK THEME for <font color='green'>Duolingo</font>
 
 
 
