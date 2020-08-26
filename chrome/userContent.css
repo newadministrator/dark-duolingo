@@ -1,1 +1,935 @@
+/* Author: newadministrator a.k.a e.victor					*/
+/* Date: 08/2020 							       */
+/* What: Dark Theme for Duolingo 					      */
+/* Lang: .CSS 								     */
+/* Disclaimer: Not involved with company Duolingo, Inc., theme based only.  */
+
+@-moz-document domain(duolingo.com) {
+	
+	/* MENU*/
+	
+	._1K9ZC {
+		background-color: #000000e6 !important;
+		border-bottom: 2px solid #0b0707 !important;
+		color: #5e5e5e !important;
+	}	
+	
+	/*MOBILE*/
+	
+	._2AHxr {
+		background-color: black !important;
+	}
+	
+	._2i8Km {
+		background: #1e1e1e !important;
+	}	
+	
+	._3EXnD {
+		background-color: #262626 !important;
+	}
+	
+	._2ZzW9 ._3Mi4x {
+		background-color: #222121 !important;
+	}
+	
+	._2Smk1::after {
+		background-color: #2d2c2c !important;
+	}
+	
+	._28yft {
+		background-color: #2d2c2c !important;
+	}
+	
+	._3xHpS {
+		background-color: #2d2c2c !important;
+	}
+	
+	.Isq59 {
+		background-color: #2d2c2c !important;
+		border-bottom: 2px solid #6a5e5e !important;
+	}
+	
+	._2GLSy {
+		background-color: #2d2c2c !important;
+	}
+
+	._1NPyE {
+		background-color: #2d2c2c !important;
+	}
+	
+	/* END*/
+	
+	body {
+		background: #000 !important;
+		color: #fff !important;
+	}
+
+	/* INVITE */
+	
+	._11zAS {
+		background: #1e5b0226 !important;
+	}
+	/* END */
+	
+	/* NEW_INDEX */
+	._2a3s4 {
+		background: #151313 !important;
+	}
+	
+	._3MNft {
+		background: #0000 !important;
+		color: aliceblue !important;
+	}
+	
+	._1Ylz-::after {
+		background-color: #003524 !important;
+	}
+	
+	._1Ylz- {
+		background-color: #024d51 !important;
+	}
+	
+	._1lHHm {
+		color: #fff !important;
+	}
+	
+	/** END **/
+			
+	img {
+		background: auto !important;
+	}
+	
+	/* START */
+	
+	._1b8Ja {
+		background-color: #000 !important;
+		border: 2px solid #e5e5e5 !important;
+	}
+	
+	._3iVqs::after {
+		background-color: #090909 !important;
+		border-color: #1cb0f6 !important;
+	}
+	
+	._3Gj5_ {
+		background: #020000 !important;
+	}
+	
+	._3ZuGY {
+			background: #040404 !important;
+	}
+	
+	._3ZJK8 {
+			background-color: black !important;
+	}
+	
+	._3yA12::after {
+		background-color: #000 !important;
+	}
+	
+	.Mr3if {
+		color: #fcfdd2d1 !important;
+	}
+	
+	.V74YZ:hover {
+		background-color: #0912159c !important;
+	}
+	
+	._2FKqf {
+		background-color: #2b2a2a !important;
+	}
+	
+	/* END */
+	
+	/* STORIES */
+	
+	._3nAfk {
+		background-color: black !important;
+	}
+	
+	._1x7If, ._2_Pxj {
+		background-color: black !important;
+	}
+	
+	.l-V52 {
+		background-color: #000 !important;
+	}
+	
+	._2nLk_ {
+		background-color: #000 !important;
+	}
+	
+	._3zxz5 {
+		background-color: black !important;
+	}
+	
+	.XO-AE {
+		background-color: #000 !important;
+	}
+	
+	/* END */
+
+	/* FORUMS */
+	
+	.PZMcl {
+			background-color: black !important;
+	}
+	
+	._2VdVL {
+			background: #000 !important;
+	}
+	
+	._10HmK {
+		background-color: #000 !important;
+		color: azure !important;
+	}
+	
+	.K4oWn, .slg8x:hover {
+		background-color: #03153e !important;
+	}
+	
+	._3ha9t {
+		background: #1c1c1c !important;
+	}
+	
+	._7SUuD {
+		color: #a6c9ff !important;
+	}
+	
+	.TKIPn:hover {
+			background: #000 !important;
+	}
+	
+	.TKIPn {
+			background: #000 !important;
+	}
+		
+	/*END*/
+	
+	/*STORE*/
+	
+	._1azKr {
+		background-color: black !important;
+	}
+	
+	._3o_lc {
+		background: #020202 !important;
+	}
+	
+	._2PVaI {
+			background: #000 !important;
+	}
+	
+	/*END*/
+	
+	img {
+		background-image: black !important;
+	}
+	
+	/*RANKING*/
+	
+	._3QwaZ.mKH7H {
+		background: #0b35125c !important;
+		color: #90ac52 !important;
+	}
+	
+	.yXp5g:hover {
+		background: #006c5d !important;
+	}
+	
+	._3cvJx {
+		color: #04a275 !important;
+	
+	}
+	/*END*/
+	
+	/*MORE & CHANGE LANG*/
+	
+	._32Uu5:hover {
+		background-color: #0912159c !important;
+	}
+	
+	._32Uu5 {
+		border-bottom: 2px solid #000 !important;
+	}
+	
+	._21XHp ._1wpST:hover {
+		background-color: #000 !important;
+	}
+	
+	._21XHp ._1wpST {
+		background-color: #0912159c !important;
+	}
+	
+	._21XHp .HkpQ_:hover {
+		background-color: #000 !important;
+		color: dimgray !important;
+	}
+	
+	/* END */
+	
+	h2 {
+		color: #83ff8abd !important;
+	}
+	
+	/*PROFILE TABLE*/
+	
+	.YBCQI {
+		color: #aa9d9d !important;
+	}
+	
+	/* END	*/
+	
+	/*DICTIONARY*/
+	
+	._1BneE {
+		background-color: #0b0b0b !important;
+	}
+	
+	._1BneE ._1O1Zq h1 {
+		color: #fff !important;
+	}
+	
+	._2NVvB {
+		background-color: #090808 !important;
+	}
+	
+	._1Jk5X:hover {
+		background-color: #04a275 !important;
+	}
+	
+	._1Jk5X {
+		color: #fff5d8 !important;
+	}
+	
+	.cmZG1 {
+		background-color: #000 !important;
+	}
+	
+	._3ywlt {
+		color: aqua !important;
+	}
+	
+	.hm1Fy:hover {
+		background-color: #024144 !important;
+	}
+	
+	/*END*/
+	
+	/*WORDS*/
+	
+	._2nHL0 {
+		background-color: #000 !important;
+	}
+	
+	.g_Zzj td {
+		border-color: #fff !important;
+		background-color: #000 !important;
+	}
+	
+	.g_Zzj {
+		color: #55edf4c4 !important;
+	}
+	
+	._1jxVm {
+		color: #fff !important;
+	}
+	
+	._1VWgO, ._2iCsL {
+		color: #e2ff7b !important;
+	}
+	
+	._2M6NO{
+		background-color: #000 !important;
+	}
+	
+	.y88kh {
+		color: #fff !important;
+	}
+	
+	._2bk_b th {
+		background: #3e3e3ec4 !important;
+	}
+
+	/*END*/
+
+	/*STORIES PLAY*/
+	
+	._11VOS {
+			border-top: 2px solid #000 !important;
+	}
+	
+	._11VOS {
+		background: #000 !important;
+	}
+	
+	.WzuSM {
+		color: #000 !important;
+	}
+	
+	._2igzU._3LUrt {
+		color: #fff !important;
+	}
+	
+	._1e1GW {
+		background-color: #2d2d2d !important;
+	}
+	
+	.TVxEB {
+		background-color: #041342 !important;
+		color: #0d0d0d !important;
+	}
+	
+	._2Za5p {
+		color: #020202 !important;
+	}
+	
+	._2Za5p._38yf5 {
+		color: #ffff !important;
+	}
+	
+	.g4lHU {
+		background-color: #750000 !important;
+	}
+	
+	._1qYD7 {
+			background: #025d6221 !important;
+	}
+	
+	._37HGt {
+		background: #403f3f !important;
+		color: #d8ddd8 !important;
+	}
+	
+	._37HGt.G1JDk {
+		background-color: #595858 !important;
+		color: #04d204 !important;
+	}
+	
+	._3GBp7._2GUPW._1t6SZ {
+		background-color: #595858 !important;
+		color: #04d204 !important;
+	}
+	
+	._2PAEX {
+		background-color: #2f2f2f !important;
+		color: #e5e5e5 !important;
+	}
+	
+	._3pXv7 {
+		color: #7bea00 !important;
+	}
+	
+	._1t6SZ {
+		background: #535252 !important;
+		border: solid #868686 !important;
+	}
+	
+	._6Gll5 {
+		color: #000 !important;
+	}
+	
+	.W6uig {
+		color: #cecece !important;
+	}
+	
+	._21Icd {
+		background: #868585 !important;
+		border: solid #9f9f9f !important;
+	}
+	
+	._1Q3F0 {
+		color: #4b4b4b !important;
+	}
+	
+	._27o_2 {
+		background: #939191 !important;
+		border: solid #797979 !important;
+	}
+	
+	._1hk_1._3alTu {
+		background: #939393 !important;
+		border-color: #6f6f6f !important;
+		color: #fff !important;
+	}
+	
+	._2cmOB {
+		background: #000 !important;
+	}	
+	
+	._1e1GW::after {
+		left: -12px !important;
+	}
+	
+	.xzblA {
+		background-color: #000 !important;
+	}
+	
+	._3rgc9 {
+		background-color: #060606 !important;
+	}
+	
+	.mrmpB {
+		background: #111 !important;
+	}
+	
+	._2igzU._1xWrt._3LUrt._2P5W7 {
+		color: #2d2d2d !important; opacity: 0.0 !important;
+	}
+	
+	/*END*/
+	
+	/*ALERT*/
+	
+	._3lUbm {	
+		background: #151515 !important;
+	}
+	
+	FrL-W:hover {
+			background: #090909 !important;
+	}
+		
+	.FrL-W {
+		background: #090909 !important;
+	}
+	
+	/*END*/
+		
+	/* TOP & HOME  */
+	
+	._1UDxB {
+		background-color: #000 !important;
+	}
+	
+	._1L4sH a {
+		color: #fff !important;
+	}
+	
+	.VIArj {
+		background-color: #000 !important;
+	}
+	
+	._338aW {
+		background: #000 !important;
+	}
+	
+	._1L4sH:hover {
+		background: #235390 !important;
+	}
+	
+	/* END */
+	
+	/* WELCOME */
+	
+	._1HjFK::after {
+		background-color: #000 !important;
+	}
+	
+	.fJSw6:hover:not(:active):not(._326cY):not(.IACXk)::after {
+			background-color: #000 !important;
+	}
+	
+	._1lHHm {
+		background-color: #000 !important;
+	}
+	
+	/* END */
+	
+	/* INTRO | PRACTICES | N00B */
+
+	.fJSw6:hover:not(:active):not(._326cY):not(.IACXk)::after {
+			background-color: #000 !important;
+	}
+	
+	.fJSw6:active:not(._326cY):not(.IACXk)::after {
+		background-color: #313030 !important;
+	}
+	
+	._26wPn::after {
+		background-color: #000 !important;
+		border-color: #2fe3ff !important;
+	}
+	
+	._26wPn {
+		background: #fff !important;
+		color: #fff !important;
+	}
+	
+	._1HjFK::after {
+		background-color: #154c66 !important;
+	}
+	
+	._2VrUB {
+			background: #141333 !important;
+	}
+	
+	._3NwXb {
+		color: #e36e6e !important;
+	}
+	
+	._399cc {
+			background: #131313 !important;
+	}
+	
+	._1QDX9 {
+		background-color: #201e1e !important;
+	}
+	
+	._2ti2i {
+		color: #fff !important;
+	}
+	
+	._3e9O1 {
+		background-color: #010e26 !important;
+	}
+	
+	._1wJYQ::after {
+		background-color: #262626 !important;
+		border-color: #4d4b4b !important;
+	}
+	
+	._2UUiS::after {
+		background-color: #0d0d0d !important;
+	}
+	
+	._2QKoe {
+		background-color: #1a1a1cde !important;
+	}
+	
+	._3vF5k {
+		background-color: #350505 !important;
+	}
+	
+	._3PZWo {
+		background: hsla(112.5, 91.3%, 63.9%, 0.66) !important;
+	}
+	
+	/* END */
+	
+	/* EVENT */
+	
+	.YEVWG {
+			background: #150000 !important;
+	}
+	
+	._1hnzV {
+		background-color: #041300 !important;
+	}
+	
+	._1P4YN {
+		color: #fff9f9 !important;
+		background-color: black !important;
+	}
+	
+	/* END */
+	
+	/* PODCAST */
+	
+	div.courses .course {
+		background: black !important;
+	}
+	
+	.language-chooser a {
+		color: #d7d5d5 !important;
+	}
+	
+	/* END */
+	
+	/*SCHOOL*/
+	
+	.role-selector.box {
+		background: #202020 !important;
+	}
+	
+	/*END*/
+	
+	/*GUIDELINES*/
+	
+	._2c6BG {
+		background-color: #0b0b0b !important;
+	}
+	
+	/*END*/
+	
+	/*TERMS*/
+	
+	._3wZWk {
+		background-color: #0d0d0d !important;
+	}
+	
+	/*END*/
+	
+	/*PRIVACY*/
+
+	._3wZWk {
+		background-color: #1e1e1e !important;
+	}
+	
+	.YRIzC p {
+		color: #ffff !important;
+	}
+	
+	.YRIzC ul li {
+		color: #02ae5d !important;
+	}
+	
+	.YRIzC a {
+		color: #0a70a2 !important;
+	}
+	/*END*/	
+	
+	/* PLUS */
+	
+	._2Dx4v {
+		background: #171717 !important;
+	}
+	
+	._1Uk5u {
+		background: #262626 !important;
+	}
+	
+	._2udJ- {
+		background: #323435 !important;
+	}
+	
+	.OK5hD {
+		background: #4d4d4d !important;
+	}
+	
+	._3YMHd {
+		background: #3a4144 !important;
+	}
+	
+	._234n7 {
+		background: #414f55 !important;
+	}
+	
+	._2EzZN {
+		background: #242d31 !important;
+	}
+	
+	/*END*/
+	
+	@-moz-document domain(push.duolingo.com) {
+	/*PUSH*/
+	
+	.intro {
+		background-color: #151515 !important;
+	}
+
+	.try {
+		background-color: #111 !important;
+	}
+
+	.testimonials {
+		background-color: #070606 !important;
+	}
+
+	.tier {
+		background-color: #1C1B1B !important;
+	}
+
+	.testimonial {
+		background-color: #2f2f2f !important;
+	}
+
+	h3 {
+		color: #fbd666 !important;
+	}
+
+	.price-num {
+		color: #4a5c3e !important;
+	}
+	
+	button.secondary {
+		background-color: #63DAFF8C !important;
+		border: solid 2px #181717 !important;
+		box-shadow: 0px 4px 0px 0px #34545e !important;
+	}
+	
+	button.secondary:hover {
+		color: #303955 !important;
+	}
+	
+	button.secondary {
+		color: #fff !important;
+	}
+	
+	button.primary {
+		color: #312C2C !important;
+		border: solid 1px #BCC4DB !important;
+		box-shadow: 0px 4px 0px 0px #212B48 !important;
+		background: #51bf1f !important;
+	}
+
+	button.primary:hover {
+		background-color: #05B168 !important;
+	}
+	
+	/*END*/
+	
+	
+}
+
+@-moz-document domain(blog.duolingo.com) {
+	/*BLOG*/
+	.page {
+			background-color: black !important;
+	}
+	
+	.site-footer {
+		background: rgb(9, 9, 9) !important;
+	}
+	
+	.page-body {
+		background-color: #242424 !important;
+	}
+	
+	.related-posts {
+		background: rgba(51, 50, 50, 0.7) !important;
+	}	
+	
+	/*END*/			
+}
+
+
+@-moz-document domain(tinycards.duolingo.com) {
+	/* TINYCARDS */
+	
+	.lAyms {
+		background-color: cadetblue !important;
+	}
+	
+	._3-N0t {
+		border-bottom: 1px solid #008b8b !important;
+		background-color: darkcyan !important;
+	}
+	
+	._1xsx9 {
+		background-color: #b91f1f !important;
+		border-radius: 0px !important;
+		box-shadow: none !important;
+	}
+	
+	._3EaxM {
+		background-color: #440101 !important;
+	}
+	
+	._1w6Oz {
+		background-color: black !important;
+	}
+	
+	._2XpIB {
+		background-color: black !important;
+	}
+	
+	.BKRUn {
+		background-color: cadetblue !important;
+	}
+	
+	._1x3WP {
+		background-color: #0d0d0d !important;
+	}
+	
+	textarea {
+		background-color: gray !important;
+	}
+	
+	._1bfyi {
+		background-color: #1a1a1a !important;
+	}
+	
+	._3PJVC {
+		background-color: darkcyan !important;
+	}
+	
+	.Cnx7R {
+		background-color: darkslategrey !important;
+	}
+	
+	._1xsx9 {
+		background-color: #2f4f4f !important;
+	}
+	
+	._3pMVB._24sYZ {
+		background-color: cadetblue !important;
+	}
+	
+	.dNvt9 {
+		background-color: cadetblue !important;
+	}
+	
+	._1r83l {
+		background-color: cadetblue !important;
+	}
+	
+	.FXFN6 {
+		background-color: cadetblue !important;
+	}
+	
+	._3Kfqq {
+		background-color: cadetblue !important;
+	}
+	
+	._1-IZO {
+		background: darkcyan !important;
+		background-color: darkcyan !important;
+	}
+	
+	._1-IZO:not(._38MJn)._1eYcB {
+		background: no-repeat 50%/30% url(data:image/png;base64,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) #403f3f !important;
+	}
+	
+	._2QLEC .ALWo1 ._1QWiP .wqcOv._1n06E {
+		background-color: darkcyan !important;
+	}
+	
+	._3ECjs._3UTun ._36ZTk {
+		color: #fdfdfd !important;
+	}
+	
+	._3UTun ._2eWUX, ._3UTun ._2eWUX a {
+		color: #e8dada !important;
+	}
+	
+	._1ewJb {
+		color: #ccc !important;
+	}
+	
+	._1q97d {
+		color: #b8f262 !important;
+	}
+	
+	._3QoxK {
+		background-color: gainsboro !important;
+	}
+	
+	._1ztQi {
+		background-color: #5f9ea0 !important;
+	}
+	
+	/*END*/
+}
+
+@-moz-document domain(support.duolingo.com) {
+	/* SUPPORT*/
+	
+	main {
+		background-color: #1e1d1d !important;
+	}
+	
+	/* END */
+}
+
+@-moz-document domain(research.duolingo.com) {
+		/*RESEARCH*/
+	
+	.alabaster-bg {
+		background-color: #151515 !important;
+	}
+	
+	/*END*/
+}
+		
+}
 
