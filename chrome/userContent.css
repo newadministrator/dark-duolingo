@@ -983,5 +983,103 @@
 	
 	/*END*/
 }
-		
+
+	/*ENGLISHTEST TO BE FINISHED*/
+	.wPdyx {
+		background-color: #333232 !important;
+	}
+	
+	._36vo_ {
+		background-color: #151414 !important;
+	}
+	
+	._2zucS {
+		background-color: #333 !important;
+	}
+	
+	#topbar {
+		background-color: #090909 !important;
+	}
+	
+	.xCwpc {
+		background-color: #4a4949 !important;
+	}
+	
+	.DeHgM {
+		background-color: #242424 !important;
+	}
+	
+	._2TBSE {
+		background-color: #424040 !important;
+	}
+	
+	._2eFS8 {
+		background-color: #0000007a !important;
+	}
+	
+	#topbar .topbar-links li > ul {
+		background: #111 !important;
+	}
+	
+	._2BILY {
+		background-color: #2d2b2b !important;
+	}
+	
+	body.splash-view.resources-view #app.splash-view.resources-view, body.splash-view.resources-view #app.splash-view.resources-view:enabled:hover, body.splash-view.resources-view #app.splash-view.resources-view:link:hover, body.splash-view.resources-view #app.splash-view.resources-view:visited:hover {
+		background-color: #151515 !important;
+	}
+	
+	#app.partners-view, #app.partners-view:enabled:hover, #app.partners-view:link:hover, #app.partners-view:visited:hover {
+		background-color: #0f0f0f !important;
+	}
+
+	#app.partners-view .flow-main {
+		background-color: #2f2e2e !important;
+	}
+	
+	.flow-container.flow-container-light {
+		box-shadow: 0 0 15px 0 #373737 !important;
+	}
+
+	.flow-container {
+		background-color: #2f2e2e !important;
+	}
+	
+	label.select, label.select:enabled:hover, label.select:link:hover, label.select:visited:hover {
+		background-color: #3e3c3c !important;
+	}
+	
+		.search-bar input[type="search"] {
+	background-color: darkolivegreen !important;
+	}
+	
+	.institutions-table-use-case td {
+		background-color: #282828 !important;
+		color: #ff0b0b !important;
+	}
+	
+	.institutions-table-use-case td > a:enabled:hover, .institutions-table-use-case td > a:link:hover, .institutions-table-use-case td > a:visited:hover {
+		color: #707070 !important;
+	}
+	
+	.institutions-table-use-case td > a {
+		color: #fbf2f2 !important;
+	}
+	
+	._11NGU {
+		background-color: #222121 !important;
+	}
+
+	._1c4cx {
+		background-color: #111 !important;
+		box-shadow: 0 0 15px 0 #420303 !important;
+	}
+
+	._2cpkk {
+		background-color: #111 !important;
+		color: cadetblue !important;
+	}
+	
+	/*END*/
+
 }
