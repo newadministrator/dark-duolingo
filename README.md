@@ -53,6 +53,16 @@
 >8. Restart the firefox (close and open);
 >9. Open the Duolingo website.
 
+- Stylus or similar
+
+>1. Click on "Stylus";
+>
+>2. Click on the (button) "Manage";
+>3. Click on the (button) "Write new style";
+>4. Paste the .CSS content on box (Code 1);
+>5. Choose a name;
+>6. Click on the (button) "Save".
+
 <br />
 
 -----------
