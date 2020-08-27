@@ -47,5 +47,20 @@
 
 -----------
 
+### Examples?
+------------
+
+<img src="https://i.ibb.co/PGbz5d8/output-MNv5n1.gif" width="800" height="420">
+
+![LoginRegister](https://i.ibb.co/P1swGRr/ezgif-com-gif-maker.gif)
+
+![Welcome](https://i.ibb.co/nCn4RZD/ezgif-com-gif-maker-2.gif)
+
+![Practice](https://i.ibb.co/1rGPWBg/ezgif-com-gif-maker.gif)
+
+![Over](https://i.ibb.co/vsN5R91/ezgif-com-gif-maker.gif)
+
+![Stuffs](https://i.ibb.co/ngFnVYH/ezgif-com-gif-maker.gif)
+
 # dark-duolingo
 
