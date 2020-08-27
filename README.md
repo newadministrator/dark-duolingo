@@ -69,8 +69,9 @@
 >2. Click on the (button) "Manage";
 >3. Click on the (button) "Write new style";
 >4. Paste the .CSS content on box (Code 1);
->5. Choose a name;
->6. Click on the (button) "Save".
+>5. Next box, click on "Overwrite style";
+>6. Choose a name (below "Add Style", box with "Enter a name");
+>7. Click on the (button) "Save".
 
 <br />
 
