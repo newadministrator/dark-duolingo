@@ -53,6 +53,8 @@
 >8. Restart the firefox (close and open);
 >9. Open the Duolingo website.
 
+<br />
+
 -----------
 
 ### Examples?
