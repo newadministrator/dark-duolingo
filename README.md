@@ -94,5 +94,8 @@
 
 ![Stuffs](https://i.ibb.co/ngFnVYH/ezgif-com-gif-maker.gif)
 
-# dark-duolingo
+<br/><br/>
+#### *Powered by*: The Author (newadministrator)
+
+##### Project: *dark-duolingo*
 
