@@ -3,6 +3,8 @@
 ![Alt-text](https://i.ibb.co/1G1n6ww/darkduogit.png)
 <br />
 
+-----------
+
 # **Disclaimer**
 ------------
 
@@ -10,12 +12,16 @@
 
 <br/>
 
+-----------
+
 ### What's?
 ------------
 
  - A custom (DARK) theme to use on the Duolingo.
 
 <br />
+
+-----------
 
 ### Where does this work?
 ------------
@@ -29,6 +35,8 @@
 - & more ...
 
 <br />
+
+-----------
 
 ### How to use?
 -----------
