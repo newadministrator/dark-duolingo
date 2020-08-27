@@ -983,7 +983,8 @@
 	
 	/*END*/
 }
-
+	
+@-moz-document domain(englishtest.duolingo.com) {
 	/*ENGLISHTEST TO BE FINISHED*/
 	.wPdyx {
 		background-color: #333232 !important;
@@ -1080,6 +1081,23 @@
 		color: cadetblue !important;
 	}
 	
+	#app.home-view.home-view .has-no-credit.has-not-practiced .item-try {
+		background-color: #2f2f2f !important;
+	}
+	
+	#app.home-view .board {
+		background-color: #222 !important;
+	}
+	
+	.dim-modal .modal-content {
+		background: #262626 !important;
+	}
+	
+	#app.article-old-view .main {
+		background: #171717b0 !important;
+		box-shadow: 0 0 15px #790808 !important;
+	}
 	/*END*/
+}
 
 }
