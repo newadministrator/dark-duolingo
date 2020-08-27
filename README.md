@@ -41,7 +41,8 @@
 ### How to use?
 -----------
 
-- Firefox
+- Firefox:
+
 >1. Open the browser;
 >
 >2. In the address bar, type: "about:config" (without quotes), press Enter;
@@ -53,7 +54,9 @@
 >8. Restart the firefox (close and open);
 >9. Open the Duolingo website.
 
-- Stylus or similar
+<br />
+
+- Stylus or similar:
 
 >1. Click on "Stylus";
 >
@@ -67,7 +70,7 @@
 
 -----------
 
-### Demo?
+### Screenshots?
 ------------
 
 <img src="https://i.ibb.co/PGbz5d8/output-MNv5n1.gif" width="800" height="420">
