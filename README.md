@@ -68,6 +68,8 @@
 
 ![Practice](https://i.ibb.co/1rGPWBg/ezgif-com-gif-maker.gif)
 
+![Storie](https://i.ibb.co/cDYbsqR/ezgif-com-gif-maker-1.gif)
+
 ![Over](https://i.ibb.co/vsN5R91/ezgif-com-gif-maker.gif)
 
 ![Stuffs](https://i.ibb.co/ngFnVYH/ezgif-com-gif-maker.gif)
