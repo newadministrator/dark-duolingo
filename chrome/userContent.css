@@ -263,6 +263,27 @@
 		border-color: #151a1af7 !important;
 	}
 	
+	._3g2C1 {
+    		background-color: #191919 !important;
+		border-bottom: 2px solid #31463c !important;
+	}
+	
+	._2uf-t, ._1kT7V, ._3aDjm, ._3kz3Z, .uqCpu, ._2WiQc, ._3gK3K {
+		background: #131313 !important;
+	}
+
+	._3kz3Z:hover, ._2WiQc:hover, .uOkpe:hover, ._1KF6e:hover {
+		background: #191f28 !important;
+	}
+
+	._1KUxv {
+   		background-color: #1f1f1f !important;
+	}
+
+	.yTpGk.k6MEx:not(._2mG9r):after, .yTpGk:disabled:not(._2mG9r):after {
+		background: #696262 !important;
+	}
+	
 	/* END */
 	
 	/* STORIES */
